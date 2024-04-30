@@ -7,7 +7,7 @@ Version 0.1.1
 
 # What this application is: 
     
-This is an automated script formatter for Seven Seas scripts, designed to take the headache out of formatting manga scripts for lettering.
+This is an automated script formatter for Seven Seas .DOCX scripts, designed to take the headache out of formatting manga scripts for lettering.
 
 # Setup (Python)
 	
@@ -22,7 +22,7 @@ These commands will install some extensions that will be necessary to run the fo
 
 # What each button does:
 
-**Open File** — Selects a .DOCX format Microsoft Word document. This is the script of whatever book you're working with
+**Open File** — Selects a .DOCX format Microsoft Word document. This is the script of whatever book you're working with. This program is **not** compatible with .DOC format.
 
 **Format Script for Lettering** — This performs several functions:
         
