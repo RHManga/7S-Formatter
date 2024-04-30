@@ -1,6 +1,6 @@
 # Seven Seas Script Formatter
 
-ReadMe
+Bumbling through rudimentary coding until 7S fixes their script formatting.
 
 Version 0.1.1
 2024/04/22
