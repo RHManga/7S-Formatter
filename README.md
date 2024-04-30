@@ -5,6 +5,8 @@ Bumbling through rudimentary coding until 7S fixes their script formatting.
 Version 0.1.1
 2024/04/22
 
+Current release here: https://github.com/RHManga/7S-Formatter/releases/tag/main
+
 # What this application is: 
     
 This is an automated script formatter for Seven Seas .DOCX scripts, designed to take the headache out of formatting manga scripts for lettering.
@@ -15,8 +17,8 @@ Currently this is only usable if run through Python from the command line, becau
 https://www.python.org/downloads/
 	
 Once you've installed python, go to your Command line (Windows+R, type cmd.exe in the field, press enter; or you can just right click a space in your file explorer window and select "Open in Terminal") and type in the following commands:
-	`pip install python-docx`
-  	`pip install doc2txt`
+`pip install python-docx`
+`pip install doc2txt`
 
 These commands will install some extensions that will be necessary to run the formatter scripts. With that, you're good to go. Read the next section for a detailed breakdown on each of the Formatter's functions, or skip the the How to Use section below that to get started.
 
